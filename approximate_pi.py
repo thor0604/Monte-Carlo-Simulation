@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 """
-A program to estimer the value of pi using the Monte-Carlo method
+A program to estimate the value of pi using the Monte-Carlo method
 """
 import sys
 import math

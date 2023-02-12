@@ -1,4 +1,3 @@
-#! /usr/bin/env python3
 """defines a dictionnary that stores the figure of integer in the form of 7 parts"""
 
 DICT_INTEGER = {
