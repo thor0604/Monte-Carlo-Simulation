@@ -1,5 +1,5 @@
 # Monte-Carlo-Simulation
-Estimate of the value of pi using Monte Carlo's method and visualise the evoluation of the process
+Estimate of the value of pi using Monte Carlo's method and visualise the evolution of the process
 This folder contains two programs: approximate_pi.py and draw.py
 
 ## approximate_pi.py
